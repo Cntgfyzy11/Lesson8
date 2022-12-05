@@ -1,0 +1,15 @@
+C:\Users\Эмма\Desktop\Lesson8\DZ62\bin\Debug\net6.0\DZ62.exe
+C:\Users\Эмма\Desktop\Lesson8\DZ62\bin\Debug\net6.0\DZ62.deps.json
+C:\Users\Эмма\Desktop\Lesson8\DZ62\bin\Debug\net6.0\DZ62.runtimeconfig.json
+C:\Users\Эмма\Desktop\Lesson8\DZ62\bin\Debug\net6.0\DZ62.dll
+C:\Users\Эмма\Desktop\Lesson8\DZ62\bin\Debug\net6.0\DZ62.pdb
+C:\Users\Эмма\Desktop\Lesson8\DZ62\obj\Debug\net6.0\DZ62.csproj.AssemblyReference.cache
+C:\Users\Эмма\Desktop\Lesson8\DZ62\obj\Debug\net6.0\DZ62.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Эмма\Desktop\Lesson8\DZ62\obj\Debug\net6.0\DZ62.AssemblyInfoInputs.cache
+C:\Users\Эмма\Desktop\Lesson8\DZ62\obj\Debug\net6.0\DZ62.AssemblyInfo.cs
+C:\Users\Эмма\Desktop\Lesson8\DZ62\obj\Debug\net6.0\DZ62.csproj.CoreCompileInputs.cache
+C:\Users\Эмма\Desktop\Lesson8\DZ62\obj\Debug\net6.0\DZ62.dll
+C:\Users\Эмма\Desktop\Lesson8\DZ62\obj\Debug\net6.0\refint\DZ62.dll
+C:\Users\Эмма\Desktop\Lesson8\DZ62\obj\Debug\net6.0\DZ62.pdb
+C:\Users\Эмма\Desktop\Lesson8\DZ62\obj\Debug\net6.0\DZ62.genruntimeconfig.cache
+C:\Users\Эмма\Desktop\Lesson8\DZ62\obj\Debug\net6.0\ref\DZ62.dll
